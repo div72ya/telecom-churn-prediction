@@ -108,9 +108,3 @@ telecom-churn-prediction/
 
 ## 👤 Author
 **Divya Sharma**
-
-
-
-👤 Author
-
-Divya Sharma
